@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "image": "/images/alanwake2.jpeg",
+        "text": "Alan Wake 2 Review - Back To Reality"
+    },
+    {
+        "id": 2,
+        "image": "/images/robocop.jpg",
+        "text": "RoboCop: Rogue City Review - Serving The Public Trust"
+    },
+    {
+        "id": 3,
+        "image": "/images/supermariorpg.jpg",
+        "text": "Paper Mario: The Thousand-Year Door ESRB Rating Hints At Early 2024 Release"
+    },
+    {
+        "id": 4,
+        "image": "/images/talosprinciple.jpg",
+        "text": "The Talos Principle Review - Profoundly Puzzling"
+    },
+    {
+        "id": 5,
+        "image": "/images/the-finals.jpg",
+        "text": "The Finals Review - Apetite For Destruction"
+    }
+    
+]

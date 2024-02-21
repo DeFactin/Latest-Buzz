@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "image": "/images/zelda-swithc.jpg",
+        "link": "https://zelda.nintendo.com/tears-of-the-kingdom/",
+        "text": "Embark on a mythical journey in Zelda: Tears of Kingdom, exploring Hyrule with magic, puzzles, and an epic storyline."
+    },
+    {
+        "id": 2,
+        "image": "/images/genshin-cover.jpeg",
+        "link": "https://genshin.hoyoverse.com/en/",
+        "text": "Dive into Teyvat with Genshin Impact, an open-world RPG blending stunning visuals, elemental powers, and diverse landscapes."
+    },
+    {
+        "id": 3,
+        "image": "/images/teemo-poro.jpg",
+        "link": "https://www.leagueoflegends.com/en-au/champions/teemo/",
+        "text": "Meet Teemo, the Swift Scout in League of Legends. A yordle master of guerrilla warfare, Teemo combines mischief with lethal strategy."
+    },
+    {
+        "id": 4,
+        "image": "https://ichef.bbci.co.uk/news/976/cpsprodpb/26A2/production/_131609890_og-pass-in-fortnite-battle-royale-1920x1080-23e3449d9bc1.jpg.webp",
+        "link": "https://www.fortnite.com/",
+        "text": "Fortnite: where fast building meets fierce battles, turning every island drop into a unique showdown for victory."
+    }
+    
+]
