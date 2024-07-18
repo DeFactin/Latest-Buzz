@@ -70,7 +70,7 @@ const ReviewsContentDisplay = ({ fileName }) => {
           </div>
           <div className="flex items-center text-gray-800 bg-gray-100 p-2 mb-6 rounded-md">
             <img src="/images/comment_icon.png" alt="Icon" className="mr-5" />
-            <p>henlo frens</p>
+            <p>hello friends</p>
           </div>
         </div>
 
